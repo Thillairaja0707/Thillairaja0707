@@ -15,13 +15,14 @@
 
 ## 🌟 Projects
 
-### [Resource Management Simulation with Python](https://github.com/yourusername/resource-management-simulation)
-- Developed a Python simulation for cloud/edge resource management utilizing quantum algorithms
-- Implemented quantum-optimized task allocation with Streamlit visualization
-
-### [IoT Door Security System](https://github.com/yourusername/iot-door-security)
-- Integrated ESP32-CAM for live video surveillance
-- Implemented real-time motion and lock detection with IR/vibration sensors
+### Crop Disease Detection System- By using machine learning and image processing to identify plant
+ diseases from leaf images. Implemented a CNN-based model for accurate classification and integrated it
+ with a user-friendly interface for farmers. Aims to enhance early disease detection and improve crop yield
+ through technology.
+ 
+ ### Line Following Robot- By using infrared (IR) sensors and microcontroller programming to autonomously
+ navigate a predefined path. Implemented PID control for smooth and efficient movement across curves
+ and intersections. Useful for industrial automation, logistics, and smart transportation systems.
 
 ## 🏆 Certifications & Achievements
 
