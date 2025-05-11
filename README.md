@@ -23,16 +23,25 @@
  navigate a predefined path. Implemented PID control for smooth and efficient movement across curves
  and intersections. Useful for industrial automation, logistics, and smart transportation systems.
 
-## 🏆 Certifications & Achievements
-
-[![Microsoft Learn Achievements](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/thoubicimran-5051/achievements)
-[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![Credly Badges](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thoubic-imran-m)
 
 ## 📚 Currently Learning
 - Data Analyst 
 - IoT Security Protocols
 - Quantum Computing Basics
+#### 🛠 Tech Stack & Skills
+
+- 💻 **Languages**: Python, HTML, CSS, JavaScript, React.js
+- 🔌 **Tools & Tech**: Internet of Things, Industrial Automation, MySQL
+- 📊 **Other Skills**: Digital Marketing, Critical Thinking, Time Management, Creativity
+
+---
+
+#### 📚 Learning Journey
+
+- ✅ Completed 12-week NPTEL course on **Introduction to Industrial 4.0 & Industrial IoT**
+- 👨‍💼 Interned at:
+  - **Prodigy InfoTech** – Web Development
+  - **AltX Electronics** – Industrial Automation
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thoubic-imran-1043ab219/)
